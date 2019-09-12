@@ -1,0 +1,25 @@
+Q: Introduce yourself and share with your peers your background and any experience you have with data science.
+
+A: Hi, my name is Joshua Isanan, i'm a Python developer. One experience I have with Data Science would be my work on an undergraduate thesis that involved training a neural network, data manipulation and augmentation.
+
+Q: Based on the videos and the reading material, how would you define a data scientist and data science? 
+
+A: A Data Scientist is anyone who manipulates, models and analyzes data. Data Science for me, is the field that involves data manipulation or analysis to extract information that answers questions.
+
+Q: As discussed in the videos and the reading material, data science can be applied to problems across different industries. What industry are you passionate about and would like to pursue a data science career in?
+
+A: I would like to pursue a data science career in the IT industry.
+
+Q: Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? 
+
+A: 
+- Cover Page
+- Table of Contents
+- Introductory
+- Methodology
+- Results
+- Discussion
+- Conclusion
+- Acknowledgements
+- References
+- Appendix
